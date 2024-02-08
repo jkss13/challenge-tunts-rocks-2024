@@ -4,7 +4,7 @@ Este projeto foi desenvolvido como resolução para o desafio técnico de progra
 
 ## ⚙️ Executando a aplicação
 
-Para executar a aplicação, o osuário deve:
+Para executar a aplicação, o usuário deve:
 - [Clonar](https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository) o repositório do projeto para sua máquina local;
 - Ter o [Python 3.11.4](https://docs.python.org/pt-br/3/using/windows.html) instalado e configurado em sua máquina;
 - Com a pasta do projeto aberto em sua IDE de preferência (Ex.: [VS Code](https://code.visualstudio.com/download)), abrir o terminal e digitar o comando **`pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib`** para instalar a biblioteca de cliente do Google para Python;
