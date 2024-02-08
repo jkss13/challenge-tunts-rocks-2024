@@ -15,6 +15,11 @@ Para executar a aplicação, o osuário deve:
 [Engenharia de Software – Desafio Karine Santos](https://docs.google.com/spreadsheets/d/11w76n5v3_g1N8lO-ipXNYVH1CaxF7Th_tdTu5BOo8w0/edit?usp=sharing)
 
 ## 📷 Screenshots
+#### Antes da execução:
+![Screenshot_0](https://github.com/jkss13/challenge-tunts-rocks-2024/assets/89669182/2700b493-e08f-4449-b9ea-038977a3e6b7)
+
+#### Depois da execução:
+![Screenshot_1](https://github.com/jkss13/challenge-tunts-rocks-2024/assets/89669182/a657120e-47ce-4f17-99e8-7b4b01ebbc25)
 
 
 ### Referências
